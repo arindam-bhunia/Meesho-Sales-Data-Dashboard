@@ -1,2 +1,2 @@
 # Meesho Sales Data Dashboard
-![Diagram](images/diagram.png)
+![Meesho Sales Data Dashboard](https://github.com/arindam-bhunia/Meesho-Sales-Data-Dashboard/blob/main/Meesho%20Preview.png)
