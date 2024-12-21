@@ -5,8 +5,8 @@
 [Download](https://github.com/arindam-bhunia/Meesho-Sales-Data-Dashboard/blob/main/Meesho%20Sales%20Data%20Dashboard.xlsx)
 
 ## Source of the Dataset
-[Download](https://www.kaggle.com/datasets/sahilr05/meesho-orders)](https://www.kaggle.com/datasets/sahilr05/meesho-orders)
-https://www.kaggle.com/datasets/sahilr05/meesho-orders
+[https://www.kaggle.com/datasets/sahilr05/meesho-orders](https://www.kaggle.com/datasets/sahilr05/meesho-orders)
+
 
 ## About
 - Designed and developed an interactive Excel dashboard to analyze Meesho sales data. Incorporated dynamic filters, charts, and KPIs to provide actionable insights into sales trends, revenue growth, and product performance
