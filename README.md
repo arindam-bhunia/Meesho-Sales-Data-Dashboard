@@ -9,3 +9,6 @@
 - Utilized pivot tables, slicers, and advanced Excel formulas for real-time data interaction.
 - Visualized sales metrics using graphs such as bar charts, line charts, and donut chart.
 - Enabled in-depth analysis of region-wise, category-wise, and time-based sales performance.
+
+## Analysis
+
